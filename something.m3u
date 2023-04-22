@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="https://asiagrandiptv.us/logo//atv.png" group-title="ALBANIA",AL: ATV
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://asiagrandiptv.us/logo//atv.png" group-title="ALBANIA",AL: ATV
 http://parkpay.live:8080/overkill/dB2hBKSxdP/400133
 #EXTINF:-1 tvg-id="3plus.al" tvg-name="AL: Tring 3 Plus" tvg-logo="https://asiagrandiptv.us/logo/3plus.png" group-title="ALBANIA",AL: Tring 3 Plus
 http://parkpay.live:8080/overkill/dB2hBKSxdP/74273
-#EXTINF:-1 tvg-id="" tvg-name="AL: 7 NEWS" tvg-logo="https://asiagrandiptv.us/logo/7news.png" group-title="ALBANIA",AL: 7 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="7 NEWS" tvg-logo="https://asiagrandiptv.us/logo/7news.png" group-title="ALBANIA",AL: 7 NEWS
 http://parkpay.live:8080/overkill/dB2hBKSxdP/15185
-#EXTINF:-1 tvg-id="" tvg-name="AL: 21 POPULLORE" tvg-logo="https://asiagrandiptv.us/logo//POPULLORE.png" group-title="ALBANIA",AL: 21 POPULLORE
+#EXTINF:-1 tvg-id="" tvg-name="21 POPULLORE" tvg-logo="https://asiagrandiptv.us/logo//POPULLORE.png" group-title="ALBANIA",AL: 21 POPULLORE
 http://parkpay.live:8080/overkill/dB2hBKSxdP/15186
-#EXTINF:-1 tvg-id="" tvg-name="AL: 24 KITCHEN" tvg-logo="https://asiagrandiptv.us/logo/24kitchen.png" group-title="ALBANIA",AL: 24 KITCHEN
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN" tvg-logo="https://asiagrandiptv.us/logo/24kitchen.png" group-title="ALBANIA",AL: 24 KITCHEN
 http://parkpay.live:8080/overkill/dB2hBKSxdP/7164
-#EXTINF:-1 tvg-id="" tvg-name="AL: A-MOL TV" tvg-logo="https://asiagrandiptv.us/logo//A-MOLTV.png" group-title="ALBANIA",AL: A-MOL TV
+#EXTINF:-1 tvg-id="" tvg-name="A-MOL TV" tvg-logo="https://asiagrandiptv.us/logo//A-MOLTV.png" group-title="ALBANIA",AL: A-MOL TV
 http://parkpay.live:8080/overkill/dB2hBKSxdP/15011
 #EXTINF:-1 tvg-id="" tvg-name="AL: AA NEW YORK TV FHD" tvg-logo="https://asiagrandiptv.us/logo//Albania.png" group-title="ALBANIA",AL: AA NEW YORK TV FHD
 http://parkpay.live:8080/overkill/dB2hBKSxdP/311312
